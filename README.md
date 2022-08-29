@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gowda</h1>
+
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 <h3 align="center">I'm a problem solver, Programming is just a tool I use.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-bg" alt="abhishek-bg" /></a> </p>
