@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Gowda</h1>
-<h3 align="center">I'm a problem solver, Programming is just a tool I use.</h3>
+<h3 align="center">I'm a problem solver, Programming is just a tool I use. Software Development Worlds Most Powerfull Wizard</h3>
+<h4> I  have the super power to cast a spell in any programmijg language </h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-bg" alt="abhishek-bg" /></a> </p>
 
